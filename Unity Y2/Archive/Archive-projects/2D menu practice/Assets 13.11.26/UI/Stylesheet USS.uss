@@ -1,0 +1,28 @@
+VisualElement {
+    --label-bg: rgb(141, 202, 212);
+    --label-bg-hover: rgb(47, 130, 163);
+}
+
+.labelText{
+    position:absolute;
+    width:10%;
+    height:60px;
+    background-color:var(--label-bg);
+    font-size: 24px;
+}
+
+.Left{
+    Left:10%;
+}
+
+.Centre{
+    Left:45%;
+}
+
+.Right{
+    Left:80%;
+}
+
+.Top{top:30%;}
+.Middle{top:45%;}
+.Bottom{top:60%;}

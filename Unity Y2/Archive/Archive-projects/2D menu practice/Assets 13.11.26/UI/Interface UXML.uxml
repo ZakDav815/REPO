@@ -1,0 +1,14 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Stylesheet%20USS.uss?fileID=7433441132597879392&amp;guid=cfc76fbd80979b14b81f321efe0126b2&amp;type=3#Stylesheet USS"/>
+    <ui:VisualElement name="root" style="flex-grow: 1; background-color: rgba(0, 0, 0, 0);">
+        <ui:Label text="Label" name="a1" class="Left Top labelText" style="height: 34px; -unity-text-align: middle-center;"/>
+        <ui:Label text="Label" name="a2" class="Top Centre labelText" style="height: 34px; -unity-text-align: middle-center;"/>
+        <ui:Label text="Label" name="a3" class="Top Right labelText" style="height: 32px; -unity-text-align: middle-center;"/>
+        <ui:Label text="Label" name="b1" class="Left Middle labelText" style="height: 32px; -unity-text-align: middle-center;"/>
+        <ui:Label text="Label" name="b2" class="Centre Middle labelText" style="height: 31px; -unity-text-align: middle-center;"/>
+        <ui:Label text="Label" name="b3" class="Right Middle labelText" style="height: 35px; -unity-text-align: middle-center;"/>
+        <ui:Label text="Label" name="c1" class="Bottom Left labelText" style="height: 35px; -unity-text-align: middle-center;"/>
+        <ui:Label text="Label" name="c2" class="Centre Bottom labelText" style="height: 37px; -unity-text-align: middle-center;"/>
+        <ui:Label text="Label" name="c3" class="Bottom Right labelText" style="height: 34px; -unity-text-align: middle-center;"/>
+    </ui:VisualElement>
+</ui:UXML>
